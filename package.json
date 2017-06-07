@@ -38,7 +38,7 @@
   "bugs": {
     "url": "https://github.com/souly1/ng-walkthrough/issues"
   },
-  "main": "karma.conf.js",
+  "main": "ng-walkthrough.js",
   "directories": {
     "test": "test"
   },
